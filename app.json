@@ -1,15 +1,15 @@
 {
   "expo": {
     "name": "Capital Of Human Ressources",
-    "slug": "cohr",
-    "version": "1.0.0",
+    "slug": "com-cohr-app",
+    "version": "1.6.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#1c72bf"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -19,12 +19,17 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.cohr.app"
+      "bundleIdentifier": "com.cohr.wv",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1c72bf"
+      },
+      "favicon": "./assets/favicon.png"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#1c72bf"
       }
     },
     "web": {
