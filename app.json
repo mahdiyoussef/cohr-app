@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Capital Of Human Ressources",
-    "slug": "com-cohr-app",
+    "slug": "com.cohr.app",
     "version": "1.6.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,7 +19,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.cohr.wv",
+      "bundleIdentifier": "com.cohr.app",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#1c72bf"
